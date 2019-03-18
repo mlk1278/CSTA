@@ -16,9 +16,7 @@ OS X & Linux:
 ```
 npm install my-crazy-module --save
 ```
-##This is a test... This is a test Samarth
-##Teletype is a very efficient software -Samarth.
-##Our CSTA website project will be very successful. 
+
 
 
 Windows:
