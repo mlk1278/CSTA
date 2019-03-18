@@ -13,10 +13,14 @@ One to two paragraph statement about your product and what it does.
 
 OS X & Linux:
 
-```sh
+```
 npm install my-crazy-module --save
 ```
 ##This is a test... This is a test Samarth
+##Teletype is a very efficient software -Samarth.
+##Our CSTA website project will be very successful. 
+
+
 Windows:
 
 ```sh
