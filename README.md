@@ -42,16 +42,14 @@ npm test
 ## Release History
 
 * 0.1.1 3-18-2019
-    * Navbar, jumbotron
-      * ADD: signup buttons in Navbar
-      * CHANGE:  Background Photo in jumbotron
-      * CHANGE: Color Scheme to match customer requirements (blue/teal)
+    * File location, title, social media, contact information
+      * Change: File location
+      * Change: title
+      * Delete: Pinterest and G+
+      * Change: Contact Info
 
 
-* 0.2.1 3-20-2019
-    * Made changes based on CSR #1
-      *  ADD: Logo in left hand corner
-      *  CHANGE: Text under signup buttons
+
 
 
 ## Meta
