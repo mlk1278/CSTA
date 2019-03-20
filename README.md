@@ -48,6 +48,9 @@ npm test
       * Delete: Pinterest and G+
       * Change: Contact Info
 
+* 0.1.2 3-20-2019
+    * Developed content for main page including navigation bar and jumbotron
+      * Change: 
 
 
 
