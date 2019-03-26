@@ -1,5 +1,18 @@
+#Group Member Names
+* Samarth Tuli
+* Mike Kirk
+
 # Product Name
 CSTA NOVA Website
+
+# Website URL
+https://mlk1278.github.io/CSTA/
+
+# Changes that Need to Be Performed
+* Update content on other pages and sections.
+* Adapt CSS styling from main page to additional sections.
+* Introduce more dynamic features to connect social media and expand on main content.
+* Changes expected to be implemented from 3/26/2019 - 4/1/2019.
 
 ## Release History
 
@@ -35,8 +48,7 @@ CSTA NOVA Website
     * Add content to other pages and adapt CSS styles of main page
 
 
-
+# Customer Request
 
 ## Meta
-
 [https://mlk1278.github.io/CSTA/]
