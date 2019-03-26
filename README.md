@@ -14,7 +14,7 @@ CSTA NOVA Website
     * Adjusted jumbotron content to fit website
     * Changed Jumbotron arrow colors
     * Fixed color scheme of the website
-    
+
 * 0.2.0 3-25-2019
   * Updated panel section below jumbotron to provide information on CSTA
   * Changed color scheme in final area on home page (about us)
@@ -27,11 +27,13 @@ CSTA NOVA Website
   * Added quotes about computer science and our role in computer science
   * Added posts about recent news
   * Listed partners in dynamic sliding list with logos
-  
+  * Set initial footer
+
   * NEED TO:
     * Update footer
     * Adjust logo size to scale with screen
-  
+    * Add content to other pages and adapt CSS styles of main page
+
 
 
 
