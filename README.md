@@ -41,11 +41,17 @@ https://mlk1278.github.io/CSTA/
   * Added posts about recent news
   * Listed partners in dynamic sliding list with logos
   * Set initial footer
+  * Embedded Live Twitter Feed in footer section
+  * Changed background color of partnership and testimonial sections to light blue (for contrast with footer)
 
   * NEED TO:
     * Update footer
     * Adjust logo size to scale with screen
     * Add content to other pages and adapt CSS styles of main page
+    * Separate main page content
+    * Adjust membership goals for statistics
+    * Change color scheme or images for jumbotron and grey background image for footer
+    * Resize gallery images, move blog entries to separate pages, and balance image sizing
 
 
 # Customer Request
