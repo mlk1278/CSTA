@@ -46,6 +46,10 @@ https://mlk1278.github.io/CSTA/
     * Update footer
     * Adjust logo size to scale with screen
     * Add content to other pages and adapt CSS styles of main page
+    * Separate main page content
+    * Adjust membership goals for statistics
+    * Change color scheme or images for jumbotron and grey background image for footer
+    * Resize gallery images, move blog entries to separate pages, and balance image sizing
 
 
 # Customer Request
