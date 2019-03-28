@@ -54,6 +54,9 @@ https://mlk1278.github.io/CSTA/
     * Resize gallery images, move blog entries to separate pages, and balance image sizing
 
 
+* 0.2.1 3-28-2019
+ * Condensed blog entries and deleted second files
+ * Reordered navigation bar options
 # Customer Request
 
 ## Meta
