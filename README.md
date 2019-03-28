@@ -57,6 +57,7 @@ https://mlk1278.github.io/CSTA/
 * 0.2.1 3-28-2019
  * Condensed blog entries and deleted second files
  * Reordered navigation bar options
+ * Changed jumbotron background images
 # Customer Request
 
 ## Meta
