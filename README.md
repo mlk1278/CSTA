@@ -57,6 +57,8 @@ https://mlk1278.github.io/CSTA/
 * 0.2.1 3-28-2019
  * Condensed blog entries and deleted second files
  * Reordered navigation bar options
+ * Linked slider button to about page (Mission statement and CSTA goals)
+ * Created About Section with Mission Statement, CSTA features, 
 # Customer Request
 
 ## Meta
