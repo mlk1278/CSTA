@@ -8,6 +8,10 @@ CSTA NOVA Website
 # Website URL
 https://mlk1278.github.io/CSTA/
 
+#info
+* Email: csta.nova10@gmail.com
+* Pass: Th1s12P@sw0d
+
 # Changes that Need to Be Performed
 * Update content on other pages and sections.
 * Adapt CSS styling from main page to additional sections.
@@ -53,11 +57,14 @@ https://mlk1278.github.io/CSTA/
     * Change color scheme or images for jumbotron and grey background image for footer
     * Resize gallery images, move blog entries to separate pages, and balance image sizing
 
-
-* 0.2.1 3-28-2019
- * Condensed blog entries and deleted second files
- * Reordered navigation bar options
- * Changed jumbotron background images
+  * 0.2.1 3-28-2019
+    * Condensed blog entries and deleted second files
+    * Reordered navigation bar options
+    * Changed jumbotron background images
+    * Added Google Calendar
+    
+  * NEED TO:
+    * Change Google Calendar to RSS Feed
 # Customer Request
 
 ## Meta
