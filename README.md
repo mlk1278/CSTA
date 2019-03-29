@@ -63,16 +63,14 @@ https://mlk1278.github.io/CSTA/
  * Condensed blog entries and deleted second files
  * Reordered navigation bar options
  * Linked slider button to about page (Mission statement and CSTA goals)
- * Created About Section with Mission Statement, CSTA features, 
-=======
-  * 0.2.1 3-28-2019
-    * Condensed blog entries and deleted second files
-    * Reordered navigation bar options
-    * Changed jumbotron background images
-    * Added Google Calendar
-    
+ * Created About Section with Mission Statement, CSTA features
+ * Changed jumbotron background images
+ * Added Google Calendar
+ * Created registration portal and fixed navigation options for About Us, Opportunities, and Calendar
+
   * NEED TO:
     * Change Google Calendar to RSS Feed
+    * Develop content for announcements (blog), cloud drive, and discussion board sections
 >>>>>>> 8651db860b6a1eb2cedff558bee14e0708dcb23d
 # Customer Request
 
