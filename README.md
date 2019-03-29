@@ -71,6 +71,11 @@ https://mlk1278.github.io/CSTA/
   * NEED TO:
     * Change Google Calendar to RSS Feed
     * Develop content for announcements (blog), cloud drive, and discussion board sections
+
+* 0.2.2 3-29-2019
+  * Started designing blog content and renamed Announcements section to News
+  * Updated other sections of website with new navigation options after performing previous change
+  
 >>>>>>> 8651db860b6a1eb2cedff558bee14e0708dcb23d
 # Customer Request
 
