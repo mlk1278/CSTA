@@ -75,7 +75,8 @@ https://mlk1278.github.io/CSTA/
 * 0.2.2 3-29-2019
   * Started designing blog content and renamed Announcements section to News
   * Updated other sections of website with new navigation options after performing previous change
-  
+  * Expanded blog content for CSTA NOVA chapter and linked main organization blog to News Page (CSTA NOVA Global Blog)
+
 >>>>>>> 8651db860b6a1eb2cedff558bee14e0708dcb23d
 # Customer Request
 
