@@ -77,6 +77,10 @@ https://mlk1278.github.io/CSTA/
   * Updated other sections of website with new navigation options after performing previous change
   * Expanded blog content for CSTA NOVA chapter and linked main organization blog to News Page (CSTA NOVA Global Blog)
 
+* 0.2.3 3-31-2019
+ * Embedded Tockify API and synced CSTA NOVA calendar to update Calendar sections
+ * Connected footer section links to respective website pages and set up the Cloud Drive and Discussion Board pages.
+
 >>>>>>> 8651db860b6a1eb2cedff558bee14e0708dcb23d
 # Customer Request
 
