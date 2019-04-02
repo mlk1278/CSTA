@@ -81,6 +81,10 @@ https://mlk1278.github.io/CSTA/
  * Embedded Tockify API and synced CSTA NOVA calendar to update Calendar sections
  * Connected footer section links to respective website pages and set up the Cloud Drive and Discussion Board pages.
 
+* 0.2.4 4-1-2019
+ * Adjusted registration portal template with Creative Form Design from codepen.io (Original template commented out in register.html)
+ 
+
 >>>>>>> 8651db860b6a1eb2cedff558bee14e0708dcb23d
 # Customer Request
 
